@@ -14,7 +14,7 @@ the constraints file maps your inputs and outputs to real pins on the FPGA.
 | Question 3 | Your answers to the question | 25% |
 
 ## Name
-
+Brolen Gumb
 ## Lab Summary
 
 ## Lab Questions
