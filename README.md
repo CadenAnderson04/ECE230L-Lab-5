@@ -14,7 +14,7 @@ the constraints file maps your inputs and outputs to real pins on the FPGA.
 | Question 3 | Your answers to the question | 25% |
 
 ## Name
-Caden Anderson
+Caden Anderson Brolen Gumb
 ## Lab Summary
 In both parts 1 and 2 we reinforced our knowledge of deriving minimization
 functions using K-Maps. In the same parts we learned how to implement the same
@@ -27,8 +27,10 @@ constraint file.
 ## Lab Questions
 
 ### 1 - Explain the role of the Top Level file.
+    * The Top level file acts as the root of the design hierarchy, declaring inputs, outputs, & other important information to be passed into other files.
 
 ### 2 - Explain the function of the Constraints file.
+    * The Constraint file is used to specify physical requirements for synthesis to ensure the final circuit acts how it is meant to.
 
 ### 3 - Was the selection of Minterm and Maxterm correct for each circuit? What would you have chosen?
 It doesn't appear that there was a right and wrong option for either options. In the case of Part A., 
