@@ -20,8 +20,10 @@ the constraints file maps your inputs and outputs to real pins on the FPGA.
 ## Lab Questions
 
 ### 1 - Explain the role of the Top Level file.
+    * The Top level file acts as the root of the design hierarchy, declaring inputs, outputs, & other important information to be passed into other files.
 
 ### 2 - Explain the function of the Constraints file.
+    * The Constraint file is used to specify physical requirements for synthesis to ensure the final circuit acts how it is meant to.
 
 ### 3 - Was the selection of Minterm and Maxterm correct for each circuit? What would you have chosen?
 
